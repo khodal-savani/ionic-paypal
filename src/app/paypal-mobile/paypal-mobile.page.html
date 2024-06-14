@@ -1,0 +1,9 @@
+<ion-content class="ion-padding">
+
+  <div style="margin: 20px 0;">
+    Paypal Payment
+  </div>
+  <ngx-paypal *ngIf="showPaypalButtons" [config]="payPalConfig">
+  </ngx-paypal>
+  <button *ngIf="showPaypalButtons" (click)="back()">back</button>
+</ion-content>
