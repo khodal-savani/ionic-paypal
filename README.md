@@ -1,6 +1,6 @@
 **Integration Overview**
 
-- **CometChat:** PayPal is one of the most widely used and easiest payment gateway to integrate in your website or app. Plus it is spread all over the globe, and supports a wide variety of payment options. 
+- **PayPal:** PayPal is one of the most widely used and easiest payment gateway to integrate in your website or app. Plus it is spread all over the globe, and supports a wide variety of payment options. 
 - **Ionic:** A cross-platform framework for building native-looking mobile apps with web technologies like HTML, CSS, and JavaScript.
 - **Capacitor:** A bridge between web code and native platform APIs, enabling access to native device functionalities within your Ionic app.
 
