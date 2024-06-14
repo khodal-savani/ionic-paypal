@@ -6,7 +6,7 @@
 
 **Quick start**
 
-1. Clone this repo using git clone --depth=1 <https://github.com/khodal-savani/ionic-cometchat.git>
+1. Clone this repo using git clone --depth=1 <https://github.com/khodal-savani/ionic-paypal.git>
 2. Move to the appropriate directory: cd ionic-paypal.
 3. Run npm install to install dependencies.
 4. Install the Adroid or iOS: npm install @capacitor/android or npm install @capacitor/ios
